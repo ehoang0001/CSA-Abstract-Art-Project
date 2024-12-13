@@ -2,7 +2,6 @@
 
 ## Dataset
 
-The dataset was made by ChatGPT
 
 Players (String): Names of soccer players.
 Goals (int): Total career goals scored by each player.
